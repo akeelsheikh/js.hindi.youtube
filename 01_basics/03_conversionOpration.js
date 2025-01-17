@@ -17,7 +17,27 @@
 //"" ->false
 //"akeel" -> true
 
-let aNumber = 33
-let stringNumber = String(aNumber)
-console.log( typeof stringNumber);
-console.log(  stringNumber);
+//let aNumber = 33
+//let stringNumber = String(aNumber)
+//console.log( typeof stringNumber);
+//console.log(  stringNumber);
+
+
+//oprations//
+
+//console.log(2+2);
+//console.log(2-2);
+//console.log(2*2);
+//console.log(2**2);
+//console.log(2%2);
+
+//let str1 = "Akeel"
+//let str2 = " Ahmad"
+
+//let str3 = str1+str2;
+//console.log(str3); // Akeel Ahmad
+
+
+let a = 98
+a++;
+console.log(a); //99, /++a ->99
